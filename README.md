@@ -37,5 +37,7 @@
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" alt="postgresql" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width: 100%;">
+
+<img src="https://skillicons.dev/icons?i=github" style="max-width: 100%;">
 </p>
  
