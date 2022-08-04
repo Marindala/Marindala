@@ -9,10 +9,7 @@
    src=498ba241923c1214880b44bf7e0355c3](https://user-images.githubusercontent.com/95050756/182940714-9e21cf47-5286-4110-817c-bdac21cecc0c.gif></a>
    </p>
    
-   ![498ba241923c1214880b44bf7e0355c3](https://user-images.githubusercontent.com/95050756/182947484-50ad4bf1-bae2-4647-8bd9-581d53af2b70.gif)
-
-     
-	
+   
 
    
    
