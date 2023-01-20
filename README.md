@@ -1,7 +1,7 @@
 
 
-<h2 align="center">Hi there 👋I'am Marindala, because I really like mandalas😄</h2>
-
+<h2 align="center">Hi there 👋I'am Marindala, because I really like mandalas😄 <imag> src= "https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="50"></h2>
+<img align='right' src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="230">
 
   <p align="center">
    <a target="_blank" rel="marin marin" href="https://user-images.githubusercontent.com/95050756/197646598-b277984b-ba07-4971-8549-00c1e6a13e6d.png">
