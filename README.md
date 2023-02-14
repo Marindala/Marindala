@@ -4,7 +4,7 @@
    
    <div aling="rigth">
    <img 
-   align="center" width="400" src ="https://i.pinimg.com/originals/49/8b/a2/498ba241923c1214880b44bf7e0355c3.gif" /></div>
+   align="center" width="300" src ="https://i.pinimg.com/originals/49/8b/a2/498ba241923c1214880b44bf7e0355c3.gif" /></div>
    
    <br>
 
