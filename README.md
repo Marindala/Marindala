@@ -5,7 +5,7 @@
     <p align="center">
       <a target="_blank" rel="marin marin" href="https://i.pinimg.com/originals/49/8b/a2/498ba241923c1214880b44bf7e0355c3.gif">
         <img
-   align="center" width="200" src="https://user-images.githubusercontent.com/95050756/197646598-b277984b-ba07-4971-8549-00c1e6a13e6d.png" >
+   align="center" width="200" href="https://i.pinimg.com/originals/49/8b/a2/498ba241923c1214880b44bf7e0355c3.gif" >
    </a>
    </p>
  
