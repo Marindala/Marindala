@@ -70,6 +70,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="50" alt="figma logo"  />
 	
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+ 
+<img src="https://skillicons.dev/icons?i=bootstrap"  width="40" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=express"  width="40" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=sequelize"  width="40" height="40"/>
 
 <img src="https://skillicons.dev/icons?i=github"  width="40" height="40"/>
 </p>
