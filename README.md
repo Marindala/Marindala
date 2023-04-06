@@ -77,6 +77,10 @@
 
 <img src="https://skillicons.dev/icons?i=sequelize"  width="40" height="40"/>
 
+<img src="https://skillicons.dev/icons?i=supabase"  width="40" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"  width="40" height="40"/>
+
 <img src="https://skillicons.dev/icons?i=github"  width="40" height="40"/>
 </p>
 <br />	
