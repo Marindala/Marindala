@@ -105,6 +105,15 @@
    ![LandingPage country](https://user-images.githubusercontent.com/95050756/234459588-51b704ca-4316-410c-bfd6-dd3655608dbe.jpg)
 
    <br>
+   
+   <p> APP --> Lotus</p>
+   <p> Lotus 😍 </code>https://github.com/Marindala/Lotus</p>
+   <p>Landing Page</p>
+   
+   ![image](https://user-images.githubusercontent.com/95050756/234685679-2d9495f1-4ce4-4084-83dd-34deb9e6ba1f.png)
+   
+    <br>
+
 
 
 </div>
