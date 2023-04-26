@@ -95,6 +95,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marindala&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marindala&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <p>Visitas a mi perfil:</p>
+  <img src="https://profile-counter.glitch.me/Marindala/count.svg?"  />
+</div>
+
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
+
 ## Projects:
 
 <p> APP --> Countries</p>
