@@ -94,5 +94,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=marindala&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marindala&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marindala&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Projects:
+
+<p> APP --> Countries</p>
+<p> Countries </code>https://github.com/Marindala/PI-countries</p>
+<p>Landing Page</p>
+
+
+<img
+     align="center" src="https://user-images.githubusercontent.com/95050756/234449087-070e915d-bfea-4872-a1ee-ef3eb3f7ae3a.png" alt=""  height="300px"/>
+
 	
 </div>
