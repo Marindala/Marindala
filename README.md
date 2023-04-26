@@ -102,8 +102,6 @@
 <p>Landing Page</p>
 
 
-<img
-     align="center" src="https://user-images.githubusercontent.com/95050756/234449087-070e915d-bfea-4872-a1ee-ef3eb3f7ae3a.png" alt=""  height="300px"/>
-
+![image](https://user-images.githubusercontent.com/95050756/234451799-6d93b932-c456-4e5c-94f4-868b0eeb6194.png)
 	
 </div>
