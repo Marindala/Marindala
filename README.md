@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi there 👋I'am Marindala, because I really like mandalas😄<img src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="150"></h2>
+<h2 align="center">Hi there 👋I'am Marindala, because I really like mandalas😄<img src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="100"></h2>
    
       
    <div align="center">
