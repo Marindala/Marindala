@@ -100,7 +100,11 @@
 <p> APP --> Countries</p>
 <p> Countries </code>https://github.com/Marindala/PI-countries</p>
 <p>Landing Page</p>
-<p align-items: "center"; width="300" dir="auto">
-💕💕💕💕💕<img src="https://user-images.githubusercontent.com/95050756/234451799-6d93b932-c456-4e5c-94f4-868b0eeb6194.png" alt=""  height="250px"/>
-</p> 	
+<div align="center">
+   <img 
+   align="center" width="490" height="240" style="max-width: 100%" src ="https://user-images.githubusercontent.com/95050756/234451799-6d93b932-c456-4e5c-94f4-868b0eeb6194.png" /></div>
+   
+   <br>
+
+
 </div>
