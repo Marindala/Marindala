@@ -108,8 +108,11 @@
 <p> Countries </code>https://github.com/Marindala/PI-countries</p>
 <p>Landing Page</p>
 
+![image](https://user-images.githubusercontent.com/95050756/235038888-6c84ced4-006d-4b98-a0fb-1f7b70a6306c.png)
+
+
   
-   ![LandingPage country](https://user-images.githubusercontent.com/95050756/234459588-51b704ca-4316-410c-bfd6-dd3655608dbe.jpg)
+  
 
    <br>
    
