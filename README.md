@@ -104,6 +104,12 @@
 
 ## Projects:
 
+<p> APP --> My Portfolio😍</p>
+<p>Deploy:</code>https://portfolio-marina-marindala.netlify.app/</p>
+
+![image](https://user-images.githubusercontent.com/95050756/236344075-e0231752-6df6-4083-afea-b887254fe6f9.png)
+
+
 <p> APP --> Countries</p>
 <p> Countries </code>https://github.com/Marindala/PI-countries</p>
 <p>Deploy:</code> https://pi-countries.netlify.app/</p>
