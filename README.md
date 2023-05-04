@@ -107,7 +107,7 @@
 <p> APP --> My Portfolio😍</p>
 <p>Deploy:</code>https://portfolio-marina-marindala.netlify.app/</p>
 
-![image](https://user-images.githubusercontent.com/95050756/236344075-e0231752-6df6-4083-afea-b887254fe6f9.png)
+![image](https://user-images.githubusercontent.com/95050756/236348170-c508be5b-e75a-4556-97f6-81775b579673.png)
 
 
 <p> APP --> Countries</p>
