@@ -5,12 +5,12 @@
       
    <div align="center">
    <img 
-   align="center" width="450" src ="https://i.pinimg.com/originals/54/48/45/54484542c6b6a1c86e1487087a1b223a.gif" /></div>
+   align="center" width="450" src ="https://projects-static.raspberrypi.org/projects/mandala/51b401783aed0aaa12cefe59791ec3be512adb1d/en/images/step_9.gif" /></div>
    
    <br>
       
       
-      
+   
     
     
  
