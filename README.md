@@ -7,33 +7,15 @@
    <img 
    align="center" width="450" src ="https://projects-static.raspberrypi.org/projects/mandala/51b401783aed0aaa12cefe59791ec3be512adb1d/en/images/step_9.gif" /></div>
    
-   <br>
-      
-      
-   
-    
-    
  
+      
+      
+     
    
-   <br>
+   
 
-
+   
   
-
-   
-   
-
-   
-   
- 
-
-
-
-   
-
-
-
-
 
    <div align="center">
 
