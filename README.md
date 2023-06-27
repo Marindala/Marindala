@@ -87,9 +87,10 @@
 ## Projects:
 
 <p> APP --> My Portfolio😍</p>
-<p>Deploy:</code>https://portfolio-marina-marindala.netlify.app/</p>
+<p>Deploy:</code>https://portfolio-personal-marina.vercel.app</p>
 
-![image](https://user-images.githubusercontent.com/95050756/236348170-c508be5b-e75a-4556-97f6-81775b579673.png)
+![image](https://github.com/Marindala/Marindala/assets/95050756/e83524cc-41dd-45e0-8076-7fdf9c8f886d)
+
 
 
 <p> APP --> Countries</p>
