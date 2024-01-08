@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'am Marindala, because I really like mandalas<img src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="80"></h2>
+<h2 align="center">Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'am Marina<img src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="80"></h2>
    
       
    <div align="center">
