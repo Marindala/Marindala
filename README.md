@@ -94,13 +94,7 @@
   
   
 
-   <br>
-   
-   <p> APP --> Lotus</p>
-   <p> Lotus 😍 </code>https://github.com/Marindala/Lotus</p>
   
-   
-   ![image](https://user-images.githubusercontent.com/95050756/234685679-2d9495f1-4ce4-4084-83dd-34deb9e6ba1f.png)
    
   
 
