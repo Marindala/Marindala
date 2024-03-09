@@ -5,7 +5,7 @@
       
    <div align="center">
    <img 
-   align="center" width="450" src ="https://projects-static.raspberrypi.org/projects/mandala/51b401783aed0aaa12cefe59791ec3be512adb1d/en/images/step_9.gif" /></div>
+   align="center" width="450" src ="https://github.com/Marindala/Marindala/assets/95050756/2ff11cb1-9da4-421f-b358-d8fb63a0207b" /></div>
    
  
       
