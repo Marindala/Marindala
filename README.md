@@ -30,9 +30,9 @@
    
 ## Languages && Tools:
 
- <p align="center" p=10>
+ <p align="center" p=13>
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,vite,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,figma,bootstrap,photoshop,ai,git,github,supabase,firebase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,vite,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,figma,bootstrap,photoshop,ai,git,github,supabase,firebase&perline=13" />
   </a>
 </p>
 
