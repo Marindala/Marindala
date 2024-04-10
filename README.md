@@ -5,7 +5,8 @@
       
    <div align="center">
    <img 
-   align="center" width="450" src ="https://github.com/Marindala/Marindala/assets/95050756/2ff11cb1-9da4-421f-b358-d8fb63a0207b" /></div>
+   align="center" width="450" src =https://github.com/Marindala/Marindala/assets/95050756/73388953-45a1-4cd7-b1e1-d0fd1e58b7d6)
+ /></div>
    
  
       
