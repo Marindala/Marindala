@@ -24,6 +24,10 @@
 ## <p>  About me...</p>
 
  ### 📹 Últimos vídeos en mi [canal de Youtube]
+  <a href='https://www.youtube.com/watch?v=o6bDj9aWzTU' target='_blank'>
+  <img width='30%' src='https://github.com/Marindala/Marindala/assets/95050756/650388b7-d9b8-4358-8159-fb26956651d8'
+ alt=' Aprender' />
+</a>
  <a href='https://www.youtube.com/watch?v=5E0g68oYv9A&t=32s' target='_blank'>
   <img width='30%' src='https://github.com/Marindala/Marindala/assets/95050756/cb208003-fe08-4c39-901a-1ced646dff49 alt=' Aprender' />
 </a>
