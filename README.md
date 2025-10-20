@@ -3,40 +3,13 @@
 <h2 align="center">Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'am Marina<img src="https://media.tenor.com/rrwORDyr8TsAAAAM/mdr.gif" width="80"></h2>
    
       
-   <div align="center">
-   <img 
-   align="center" width="450" src =https://github.com/Marindala/Marindala/assets/95050756/1ac9e4d9-5fee-4684-98aa-9f1536761878)
-
- </div>
-   
+ 
 
       
-      
-     
-   
-   
-
-   
-  
-
    <div align="center">
 
 ## <p>  About me...</p>
 
- ### 📹 Últimos vídeos en mi [canal de Youtube]
-  <a href='https://www.youtube.com/watch?v=o6bDj9aWzTU' target='_blank'>
-  <img width='30%' src='https://github.com/Marindala/Marindala/assets/95050756/650388b7-d9b8-4358-8159-fb26956651d8'
- alt=' Aprender' />
-</a>
- <a href='https://www.youtube.com/watch?v=5E0g68oYv9A&t=32s' target='_blank'>
-  <img width='30%' src='https://github.com/Marindala/Marindala/assets/95050756/cb208003-fe08-4c39-901a-1ced646dff49 alt=' Aprender' />
-</a>
-<a href='https://www.youtube.com/watch?v=KAaYoLRCK2s' target='_blank'>
-  <img width='30%' src=https://github.com/Marindala/Marindala/assets/95050756/73a5ae88-26ca-40ee-9906-79f87abb3d25
- alt='Audiograms' />
-</a>
-
-##
   
 	 
   📲💻 I am a full stack web developer and designer. I have experience with a variety of programming languages ​​and tools. I am always looking to learn new technologies and improve my skills. I enjoy working on challenging projects and collaborating with others. I am also studying English continuously 🤓. Very curious with AI and cybersecurity tools.
