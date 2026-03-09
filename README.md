@@ -67,7 +67,7 @@
 
 ## Projects:
 
-<p> APP --> My Portfolio😍</p>
+<p> --> My Portfolio😍</p>
 <p>Deploy:</code>https://portfolio-personal-marina.vercel.app</p>
 
 ![image](https://github.com/Marindala/Marindala/assets/95050756/e83524cc-41dd-45e0-8076-7fdf9c8f886d)
