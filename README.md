@@ -70,7 +70,8 @@
 <p> --> My Portfolio😍</p>
 <p>Deploy:</code>https://portfolio-personal-marina.vercel.app</p>
 
-![image](https://github.com/Marindala/Marindala/assets/95050756/e83524cc-41dd-45e0-8076-7fdf9c8f886d)
+![image](<img width="1342" height="638" alt="image" src="https://github.com/user-attachments/assets/be75b570-5194-4162-8316-4a450c2d31fa" />
+
 
 
 
