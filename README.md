@@ -68,7 +68,7 @@
 ## Projects:
 
 <p> --> My Portfolio😍</p>
-<p>Deploy:
+<p>Deploy: https://personal-portfolio-marina-lopez.vercel.app/
 
 <img width="1342" height="638" alt="image" src="https://github.com/user-attachments/assets/be75b570-5194-4162-8316-4a450c2d31fa" />
 
